@@ -1,0 +1,30 @@
+.productdisplay {
+  display: flex;
+  margin: 0px 170px;
+}
+.pd-left {
+  display: flex;
+  gap: 17px;
+}
+.pd-img-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.pd-img-list img {
+  height: 163px;
+}
+.pd-main-img {
+  width: 586px;
+  height: 700px;
+}
+.pd-right {
+  margin: 0px 70px;
+  display: flex;
+  flex-direction: column;
+}
+.pd-right h1 {
+  color: #3d3d3d;
+  font-size: 40px;
+  font-weight: 700;
+}
